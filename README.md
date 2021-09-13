@@ -6,13 +6,13 @@
 
 #### BIO
 
-- :office: I currently work at **[Xero](https://www.xero.com)**
-- :gear: Things I use daily: 
+- :office:  I currently work at **[Xero](https://www.xero.com)**
+- :gear:  Things I use daily: 
   - Languages: `.ts`, `.cs`, `.py`, `.go`, `.tf`
   - Technologies: `kubernetes`, `helm`, `terraform`, `aws`, `react`, `.NET`
-- :seedling: Currently learning how to measure and maintain software quality as project size and complexity increase.
-- :speech_balloon: Ask me how I accidentally started my own contracting business when I was 12. :interrobang:
-- :heart: What I love: `open source`, `linux`, `devops`, `infra-as-code` & `coffee`
+- :seedling:  Currently learning how to measure and maintain software quality as project size and complexity increase.
+- :speech_balloon:  Ask me how I accidentally started my own contracting business when I was 12. :interrobang:
+- :heart:  What I love: `open source`, `linux`, `devops`, `infra-as-code` & `coffee`
 
 
 ---
