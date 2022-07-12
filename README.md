@@ -18,5 +18,5 @@
 
 ---
 <p align="center">
-  <img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=dkbarrett&theme=dark" />
+  <img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=dkbnz&theme=dark" />
 </p>
