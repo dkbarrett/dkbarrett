@@ -2,7 +2,7 @@
 
 ##### I'm a Software Engineer based in New Zealand.
 
-[![LinkTree: dkbnz]([https://img.shields.io/badge/LinkTree-505050?style=for-the-badge&logo=linktree)](https://linktr.ee/dkbnz)
+[![LinkTree: dkbnz](https://img.shields.io/badge/LinkTree-505050?style=for-the-badge&logo=linktree)](https://linktr.ee/dkbnz)
 
 #### BIO
 
