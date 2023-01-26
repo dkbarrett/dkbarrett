@@ -1,19 +1,17 @@
 ### Hi there :wave:
 
-##### I'm a Software Engineer based in Wellington, New Zealand.
+##### I'm a Software Engineer based in New Zealand.
 
-[![Linkedin: dkbarrett](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dkbarrett/)
-[![Leetcode: dkbarrett](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c06)](https://leetcode.com/dkbarrett/)
+[![LinkTree: dkbnz]([https://img.shields.io/badge/LinkTree-505050?style=for-the-badge&logo=linktree)](https://linktr.ee/dkbnz)
 
 #### BIO
 
 - :office:  I currently work at **[Xero](https://www.xero.com)**
-- :gear:  Things I use daily: 
-  - Languages: `.ts`, `.cs`, `.py`, `.go`, `.tf`
+- :gear:  Things I use regularly: 
+  - Languages: `.ts`, `.cs`, `.tf`, `.py`, `.go`
   - Technologies: `kubernetes`, `helm`, `terraform`, `aws`, `react`, `.NET`
 - :seedling:  Currently learning how to measure and maintain software quality as project size and complexity increase.
-- :speech_balloon:  Ask me how I accidentally started my own contracting business when I was 12. :interrobang:
-- :heart:  What I love: `open source`, `linux`, `devops`, `infra-as-code` & `coffee`
+- :heart:  I am passionate about `open source`, `linux`, `devops`, `infra-as-code` & `coffee`
 
 
 ---
