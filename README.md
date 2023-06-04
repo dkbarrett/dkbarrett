@@ -6,9 +6,8 @@ https://dkb.nz/
 
 #### BIO
 
-- :office:  I currently work at **[Xero](https://www.xero.com)**
 - :gear:  Things I use regularly: 
-  - Languages: `.ts`, `.cs`, `.tf`, `.py`, `.go`
+  - Languages: `.ts`, `.cs`, `.tf`, `.py`, `.go`, ``
   - Technologies: `kubernetes`, `helm`, `terraform`, `aws`, `react`, `.NET`
 - :seedling:  Currently learning how to measure and maintain software quality as project size and complexity increase.
 - :heart:  I am passionate about `open source`, `linux`, `devops`, `infra-as-code` & `coffee`
