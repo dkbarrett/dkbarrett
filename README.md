@@ -7,7 +7,7 @@ https://dkb.nz/
 #### BIO
 
 - :gear:  Things I use regularly: 
-  - Languages: `.ts`, `.cs`, `.tf`, `.py`, `.go`, ``
+  - Languages: `typescript`, `C#`, `terraform`, `python`, `go`, `kotlin`
   - Technologies: `kubernetes`, `helm`, `terraform`, `aws`, `react`, `.NET`
 - :seedling:  Currently learning how to measure and maintain software quality as project size and complexity increase.
 - :heart:  I am passionate about `open source`, `linux`, `devops`, `infra-as-code` & `coffee`
